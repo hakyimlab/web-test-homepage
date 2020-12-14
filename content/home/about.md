@@ -38,4 +38,4 @@ weight = 70
 
 # Biography
 
-Hae Kyung Im is a statistician who is passionate about using quantitative and computational methods to uncover hidden patterns in data, which can be translated to benefit people. After trying out physics, manufacturing, information security, and finance, she found a home in academia in the intersection of statistics, genomics, medicine, and big data analytics.
+Hae Kyung Im is a statistician who developing quantitative and computational methods to uncover hidden patterns in data, which can be translated to benefit people. After trying out physics, manufacturing, information security, and finance, she found a home in academia in the intersection of statistics, genomics, medicine, and big data analytics.
