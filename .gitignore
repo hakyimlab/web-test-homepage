@@ -7,3 +7,4 @@ main.blg
 *.synctex.gz
 main.pdf
 .DS_Store
+public/*
