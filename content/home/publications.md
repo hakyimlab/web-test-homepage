@@ -7,16 +7,11 @@ draft = false
 
 title = "Recent Publications"
 subtitle = ""
-widget = "publications"
+widget = "custom"
 
 # Order that this section will appear in.
 weight = 35
 
-# Number of publications to list.
-count = 10
-
-# Show publication details (such as abstract)? (true/false)
-detailed_list = false
-
 +++
 
+See highlighted publications in the #Research section. The extended list of publications can be found in [Google Scholar](https://scholar.google.com/citations?hl=en&user=1QD4sIcAAAAJ&view_op=list_works&sortby=pubdate)
