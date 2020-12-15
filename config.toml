@@ -10,7 +10,7 @@ publishDir = "public"
 disqusShortname = "HakyImLab"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-61894206-7"
+googleAnalytics = "G-8SL8WKCMYZ"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
