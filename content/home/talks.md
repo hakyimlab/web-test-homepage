@@ -6,15 +6,12 @@ draft = false
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
-widget = "talks"
+widget = "custom"
 
 # Order that this section will appear in.
 weight = 40
 
-# Number of talks to list.
-count = 10
-
-# Show talk details (such as abstract)? (true/false)
-detailed_list = false
 
 +++
+
+Find the list of talks [here](https://docs.google.com/document/d/1GiIRKruoL53LbfSXaW8N9CYItYeVBQk7CXSnpVwscjo/edit#heading=h.ylpayh15izji) 

@@ -159,14 +159,14 @@ defaultContentLanguageInSubdir = false
   weight = 10
 
 [[menu.main]]
+  name = "Research"
+  url = "#research"
+  weight = 15
+
+[[menu.main]]
   name = "News"
   url = "#posts"
   weight = 20
-
-# [[menu.main]]
-#   name = "Research"
-#   url = "#research"
-#   weight = 20
 
 [[menu.main]]
   name = "Publications"
@@ -192,7 +192,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "People"
   url = "#people"
-  weight = 15
+  weight = 60
 
 [[menu.main]]
   name = "Contact"
