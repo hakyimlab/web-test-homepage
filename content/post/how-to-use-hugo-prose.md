@@ -26,10 +26,10 @@ features:
 - +number_sections
 - +sidenotes
 - -citation
-menu:
-  header:
-    name: About
-    weight: 2
+# menu:
+#   header:
+#     name: About
+#     weight: 2
 tags:
 - menu
 - TOC
