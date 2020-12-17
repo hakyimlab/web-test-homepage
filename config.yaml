@@ -53,6 +53,7 @@ params:
     Text and figures are licensed under [Creative Commons Attribution CC BY
     4.0](https://creativecommons.org/licenses/by/4.0/). The source code is
     licensed under MIT.
+  summaryLength: 1000
 
 markup:
   highlight:
