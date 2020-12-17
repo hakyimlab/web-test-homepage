@@ -66,10 +66,6 @@
       <a href="{{ .RelPermalink }}" class="more" title="Read More...">Read more &rarr;</a>
     </div>
     </td>
-    {{ if $.IsHome }}
-    <td class="spacer spacer-right"></td>
-    <td class="side-title">{{ with .Section }}<h1><a href="{{ print "/" . "/" | relURL }}">{{ . }}</a></h1>{{ end }}</td>
-    {{ end }}
     </tr>
     </tbody>
     </table>
