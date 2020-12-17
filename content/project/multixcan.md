@@ -3,7 +3,7 @@ title: Multixcan
 slug: multixcan
 categories: []
 tags: []
-weight: 4
+weight: 200
 ---
 
 ### Boosting the power to identify target genes by exploiting the tissue sharing of gene expression regulation

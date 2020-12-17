@@ -5,7 +5,7 @@ author: Haky Im
 slug: childhood-vs-adult-onset-asthma
 categories: []
 tags: []
-weight: 5
+weight: 500
 ---
 ### Application to childhood and adult onset asthma data in the UK Biobank
 

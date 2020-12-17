@@ -1,7 +1,7 @@
 ---
 title: 'PrediXcan'
 date: ''
-weight: 1
+weight: 100
 ---
 
 ### PrediXcan, a regulatory mechanism driven gene discovery tool

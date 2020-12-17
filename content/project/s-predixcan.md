@@ -3,7 +3,7 @@ title: 'S-PrediXcan'
 date: ''
 categories: []
 tags: []
-weight: 2
+weight: 200
 ---
 
 ### Scaling up PrediXcan to integrate large-scale data

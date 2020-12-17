@@ -3,7 +3,7 @@ title: Genetic Architecture Expression
 slug: genetic-architecture-expression
 categories: []
 tags: []
-weight: 3
+weight: 300
 ---
 
 ### Genetic architecture of expression traits across tissues
