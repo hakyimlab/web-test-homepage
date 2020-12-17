@@ -19,13 +19,9 @@
   <tbody>
   <tr>
   {{if (eq (mod $i 2) 0) }}
-  <td class="side-title"><h1>{{ $p.Title }}</h1></td>
-  <td class="spacer spacer-left"></td>
   <td>{{ $p.Content }}</td>
   {{ else }}
   <td>{{ $p.Content }}</td>
-  <td class="spacer spacer-right"></td>
-  <td class="side-title"><h1>{{ $p.Title }}</h1></td>
   {{ end }}
   </tr>
   </tbody>
