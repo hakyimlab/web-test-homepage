@@ -1,5 +1,5 @@
 ---
-title: Research projects
+title: Research
 menu:
   header:
     weight: 3
