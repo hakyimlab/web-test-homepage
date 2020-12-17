@@ -41,8 +41,8 @@ menu:
 
 params:
   homePosts: 6
-  mainSections: ["post", "work"]
-  editLink: "https://github.com/hakyimlab/test-yihui-hugo-prose"
+  mainSections: ["post", "work","project"]
+  editLink: "https://github.com/hakyimlab/web-homepage"
   authorDelimiter: " / "
   pageFeatures: [+sidenotes]
   description: >
