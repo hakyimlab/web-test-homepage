@@ -2,7 +2,7 @@
 menu:
   header:
     weight: 30
-title: Resource
+title: "Resource"
 ---
 
 # Methods, software, and resources
