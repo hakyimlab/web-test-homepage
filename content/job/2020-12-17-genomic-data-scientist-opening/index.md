@@ -11,7 +11,7 @@ tags:
 
 ![](https://uchicago.box.com/shared/static/vjyf1k64s0gbik9krjipnyc93zmjestg.png)
 
-# Genomic Data Scientist / Scientific Programmer Position
+<!-- # Genomic Data Scientist / Scientific Programmer Position -->
 
 We are looking to hire a life-long learner interested in developing statistical and computational tools to sift through large amounts of data with the ultimate goal of making discoveries that can make a difference in the health of people.
 Methods and resources created in our lab are being used by researchers around the globe. We continue innovating and providing user-friendly and statistically efficient tools to get the most out of the ever-increasing amount of data.
@@ -37,4 +37,5 @@ We partner with large consortia and biomedical researchers to find the most pres
 - A collegial, inclusive, and stimulating research environment
 - Personalized mentoring to help you achieve your potential
 - State of the art data and computational infrastructure
+- Flexible remote arrangement, as needed
 - To find out more email Hae Kyung Im (haky@uchicago.edu)
