@@ -18,17 +18,32 @@
 
 - name: "Hae Kyung Im"
   bio: >
-    Hae Kyung Im is a statistician developing quantitative and computational methods 
-    to uncover hidden patterns in data, which can be translated to benefit people. 
-    After trying out physics, manufacturing, information security, and finance, 
-    she found a home in academia in the intersection of statistics, genomics, medicine, 
+    Hae Kyung Im is a statistician developing quantitative and computational methods
+    to uncover hidden patterns in data, which can be translated to benefit people.
+    After trying out physics, manufacturing, information security, and finance,
+    she found a home in academia in the intersection of statistics, genomics, medicine,
     and big data analytics.
-    
+
 - name: "Haky Im"
   bio: >
-    Hae Kyung Im is a statistician developing quantitative and computational methods 
-    to uncover hidden patterns in data, which can be translated to benefit people. 
-    After trying out physics, manufacturing, information security, and finance, 
-    she found a home in academia in the intersection of statistics, genomics, medicine, 
-    and big data analytics.
-    
+    Hae Kyung Im develops quantitative and computational methods
+    to uncover hidden patterns in data, which can be translated to benefit people.
+    After trying out physics, manufacturing, information security, and finance,
+    she found a home in academia in the intersection of statistics, genomics, medicine,
+    and big data analytics. She is currently an Assistant Professor in the Section of Medicine,
+    Department of Medicine at the University of Chicago.
+
+- name: "Yanyu Liang"
+  bio: >
+    Yanyu is a graduate student in the Genetics Genomics and Systems Biology Committee at the University of Chicago.
+    She is currently interested in method development for Statistical Genetics and Computational Biology.
+    Prior the graduate school, she majored in Chemistry at Tsinghua University in China.
+    Outside the lab, she likes to spend time with her cats and play pingpong.
+
+- name: "Wanhao Chi"
+  bio: >
+    Wanhao is a postdoctoral fellow in Dr. Xiaoxi Zhuang's lab at the University of Chicago.
+    She received a PhD in Genetics under Dr. Xiaoxi Zhuang.
+    Her research focuses on understanding the role of dopamine in reward, foraging decision-making, and fitness.
+    She is also interested in exploring other genetic factors that may affect the decision-making process in a
+    foraging environment.

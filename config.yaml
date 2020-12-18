@@ -41,14 +41,15 @@ menu:
 
 params:
   homePosts: 6
-  mainSections: ["post", "work","project"]
+  mainSections: ["post", "job"]
   editLink: "https://github.com/hakyimlab/web-homepage"
   authorDelimiter: " / "
   pageFeatures: [+sidenotes]
+  features: [-number_sections]
   description: >
     ImLab website, built with Hugo and blogdown with the hugo-prose theme.
   footer: >
-    &copy; 2017 Hae Kyung Im
+    &copy; 2020 Hae Kyung Im
   license: >
     Text and figures are licensed under [Creative Commons Attribution CC BY
     4.0](https://creativecommons.org/licenses/by/4.0/). The source code is

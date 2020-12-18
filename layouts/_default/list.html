@@ -19,13 +19,9 @@
   <tbody>
   <tr>
   {{if (eq (mod $i 2) 0) }}
-  <td class="side-title"><h1>{{ $p.Title }}</h1></td>
-  <td class="spacer spacer-left"></td>
   <td>{{ $p.Content }}</td>
   {{ else }}
   <td>{{ $p.Content }}</td>
-  <td class="spacer spacer-right"></td>
-  <td class="side-title"><h1>{{ $p.Title }}</h1></td>
   {{ end }}
   </tr>
   </tbody>
@@ -42,7 +38,7 @@
 {{ end }}
 
 {{ range $pages }}
-  <section class="article-list post-card{{ if .Draft }} draft{{ end }}">
+  <section class="article-list normal-card{{ if .Draft }} draft{{ end }}">
     <table>
     <tbody>
     <tr>
@@ -70,10 +66,6 @@
       <a href="{{ .RelPermalink }}" class="more" title="Read More...">Read more &rarr;</a>
     </div>
     </td>
-    {{ if $.IsHome }}
-    <td class="spacer spacer-right"></td>
-    <td class="side-title">{{ with .Section }}<h1><a href="{{ print "/" . "/" | relURL }}">{{ . }}</a></h1>{{ end }}</td>
-    {{ end }}
     </tr>
     </tbody>
     </table>
